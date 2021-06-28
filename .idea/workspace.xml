@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76d88088-1029-4564-9189-942303cc6d82" name="Default Changelist" comment="">
+<<<<<<< Updated upstream
+      <change afterPath="$PROJECT_DIR$/~$Result.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Result.xlsx" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/temp/RUL_FD001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/RUL_FD002.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/RUL_FD003.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/RUL_FD004.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/Result.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/test_FD001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/test_FD002.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/test_FD003.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/test_FD004.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/test_FD1.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/test_FD1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/train_FD001.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/train_FD002.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/train_FD003.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/train_FD004.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/train_FD1.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp/train_FD1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RUL_FD001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RUL_FD002.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RUL_FD003.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RUL_FD004.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Result.xlsx" beforeDir="false" />
+>>>>>>> Stashed changes
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_FD001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_FD002.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_FD003.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_FD004.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_FD1.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_FD1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_FD001.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_FD002.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_FD003.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_FD004.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_FD1.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_FD1.xlsx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="58b8917b-2141-4a58-ad2b-c897cfddc165" />
+  <component name="ProjectId" id="1rYWtElT8ihr92Lyea7CkSIpdSX" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Deep-CNN-for-Estimation-of-Remaining-Useful-Life" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Deep-CNN-for-Estimation-of-Remaining-Useful-Life" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76d88088-1029-4564-9189-942303cc6d82" name="Default Changelist" comment="" />
+      <created>1619153715806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619153715806</updated>
+      <workItem from="1619153716865" duration="34000" />
+      <workItem from="1619153790293" duration="204000" />
+      <workItem from="1619159427024" duration="2243000" />
+      <workItem from="1619408214169" duration="1515000" />
+      <workItem from="1619409783990" duration="3598000" />
+      <workItem from="1619413643431" duration="6381000" />
+      <workItem from="1619422959090" duration="6385000" />
+      <workItem from="1619429778883" duration="10000" />
+      <workItem from="1619488085590" duration="11972000" />
+      <workItem from="1619514926644" duration="2519000" />
+      <workItem from="1619594795987" duration="1819000" />
+      <workItem from="1619682567093" duration="2983000" />
+      <workItem from="1619765104686" duration="7196000" />
+<<<<<<< Updated upstream
+=======
+      <workItem from="1619840049473" duration="4706000" />
+      <workItem from="1619844775514" duration="37000" />
+      <workItem from="1619844824846" duration="962000" />
+>>>>>>> Stashed changes
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="629" y="400" key="#Notifications" timestamp="1619153743127">
+      <screen x="0" y="25" width="1792" height="1095" />
+    </state>
+    <state x="629" y="400" key="#Notifications/0.25.1792.1095@0.25.1792.1095" timestamp="1619153743127" />
+    <state width="963" height="243" key="GridCell.Tab.0.bottom" timestamp="1619422936537">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="963" height="243" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1619422936537" />
+    <state width="963" height="243" key="GridCell.Tab.0.center" timestamp="1619422936536">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="963" height="243" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1619422936536" />
+    <state width="963" height="243" key="GridCell.Tab.0.left" timestamp="1619422936535">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="963" height="243" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1619422936535" />
+    <state width="963" height="243" key="GridCell.Tab.0.right" timestamp="1619422936536">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="963" height="243" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1619422936536" />
+    <state width="870" height="365" key="GridCell.Tab.1.bottom" timestamp="1619413629690">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="870" height="365" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1619413629690" />
+    <state width="870" height="365" key="GridCell.Tab.1.center" timestamp="1619413629690">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="870" height="365" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1619413629690" />
+    <state width="870" height="365" key="GridCell.Tab.1.left" timestamp="1619413629689">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="870" height="365" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1619413629689" />
+    <state width="870" height="365" key="GridCell.Tab.1.right" timestamp="1619413629690">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="870" height="365" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1619413629690" />
+    <state x="415" y="106" key="SettingsEditor" timestamp="1619410116214">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="415" y="106" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1619410116214" />
+    <state x="405" y="208" key="SettingsEditor/0.25.1792.1095@0.25.1792.1095" timestamp="1619159866811" />
+<<<<<<< Updated upstream
+    <state width="896" height="560" key="XDebugger.FullValuePopup" timestamp="1619683071765">
+=======
+    <state x="396" y="248" key="Vcs.Push.Dialog.v2" timestamp="1619845764911">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="396" y="248" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1619845764911" />
+    <state width="896" height="560" key="XDebugger.FullValuePopup" timestamp="1619842382678">
+>>>>>>> Stashed changes
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="896" height="560" key="XDebugger.FullValuePopup/0.0.1792.1120@0.0.1792.1120" timestamp="1619683071765" />
+    <state width="896" height="560" key="XDebugger.FullValuePopup/0.25.1792.1095@0.25.1792.1095" timestamp="1619428029825" />
+    <state x="509" y="226" key="git4idea.branch.GitSmartOperationDialog" timestamp="1619845784871">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="509" y="226" key="git4idea.branch.GitSmartOperationDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1619845784871" />
+    <state x="477" y="88" key="search.everywhere.popup" timestamp="1619412786118">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="477" y="88" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1619412786118" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Deep_CNN_for_Estimation_of_Remaining_Useful_Life$temp.coverage" NAME="temp Coverage Results" MODIFIED="1619416445831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
