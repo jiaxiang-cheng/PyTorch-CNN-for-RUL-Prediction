@@ -26,11 +26,14 @@ Then you will get the following running information:
 ```
 ...
 
-Epoch :  143     loss : tensor(3.0529, grad_fn=<NllLossBackward>)
-Epoch :  145     loss : tensor(3.0383, grad_fn=<NllLossBackward>)
-Epoch :  147     loss : tensor(3.0355, grad_fn=<NllLossBackward>)
-Epoch :  149     loss : tensor(3.0473, grad_fn=<NllLossBackward>)
-RMSE = [35.45701623] ; Score = [6661.39949218]
+Epoch :  30      loss : 3.285    RMSE = 34.636   Score = 14473
+Epoch :  31      loss : 3.277    RMSE = 34.599   Score = 14815
+Epoch :  32      loss : 3.269    RMSE = 34.95    Score = 12690
+Epoch :  33      loss : 3.259    RMSE = 32.885   Score = 6656
+Epoch :  34      loss : 3.25     RMSE = 32.354   Score = 5344
+Epoch :  35      loss : 3.241    RMSE = 32.318   Score = 4898
+
+...
 ```
 As the model and data sets are not heavy, the evaluation will be conducted after each
 training epoch to catch up with the performance closely.

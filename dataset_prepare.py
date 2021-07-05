@@ -38,7 +38,7 @@ def train_val_prepare(max_cycle, idx, X_ss, calcul, nf, ns):
     # train_y.shape
 
     # create validation set
-    train_x, val_x, train_y, val_y = train_test_split(train_x, train_y, test_size=0.1)
+    # train_x, val_x, train_y, val_y = train_test_split(train_x, train_y, test_size=0.1)
     # (train_x.shape, train_y.shape), (val_x.shape, val_y.shape)
 
     # converting training images into torch format
@@ -52,18 +52,18 @@ def train_val_prepare(max_cycle, idx, X_ss, calcul, nf, ns):
     # shape of training data
     # train_x.shape, train_y.shape
 
-    # converting validation images into torch format
-    val_x = val_x.reshape(val_x.shape[0], 1, 15, nf)
-    val_x = torch.from_numpy(val_x)
-
-    # converting the target into torch format
-    val_y = val_y.astype(int)
-    val_y = torch.from_numpy(val_y)
+    # # converting validation images into torch format
+    # val_x = val_x.reshape(val_x.shape[0], 1, 15, nf)
+    # val_x = torch.from_numpy(val_x)
+    #
+    # # converting the target into torch format
+    # val_y = val_y.astype(int)
+    # val_y = torch.from_numpy(val_y)
 
     # shape of validation data
     # val_x.shape, val_y.shape
 
-    return train_x, train_y, val_x, val_y
+    return train_x, train_y  # val_x, val_y
 
 
 def test_prepare(Xt_ss, idx_t, nf, ns_t):
